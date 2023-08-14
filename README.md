@@ -2,7 +2,7 @@ This repo contains the source code for the Xenonauts 2 Mod Patcher (XMP) and an 
 
 _Both the Mod Patcher and example Mod were inspired by a thread on the Goldhawk Interactive forum posted by asdfcyber. Most of the TestMod code was taken directly from their code._
 
-_The thread can be found here:_ https://www.goldhawkinteractive.com/forums/index.php?/topic/28131-first-v25-modding-impressions/#comment-192760_
+_The thread can be found here:_ https://www.goldhawkinteractive.com/forums/index.php?/topic/28131-first-v25-modding-impressions/#comment-192760
 
 The Xenonauts Mod Patcher (XMP) is used to automatically patch the Xenonaut 2 Assembly-CSharp.dll to allow custom Mod dlls to be loaded when the game starts.
 
