@@ -22,7 +22,7 @@ The LoadMods method will recursively check the specified mods directory for dlls
 
 ## TestMod
 
-For the test mod to build correctly you will need .net framework 3.5 to be installed (as this is the version being used by the version of Unity Xenonauts 2 is using). You will also need to copy in at least the Assembly-CSharp.dll and Assembly-CSharp-firstpass.dll files from the Xenonauts2_Data\Managed data directory into the debug directory.
+For the test mod to build correctly you will need .net framework 3.5 to be installed (as this is the version being used by the version of Unity Xenonauts 2 is using). You will also need to copy in at least the Assembly-CSharp.dll and Assembly-CSharp-firstpass.dll and UnityEngine.dll files from the Xenonauts2_Data\Managed data directory into the debug directory.
 
 You will need to have run the Mod Patcher at least once so the Xenonauts.IMod interface has been injected into the Assembly-CSharp.dll.
 
